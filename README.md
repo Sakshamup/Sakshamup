@@ -25,8 +25,8 @@
 - 📧 sakshamupadhyay658@gmail.com 
 
 ### 🚀 **GitHub Stats**
-![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshamup&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamup&layout=compact&theme=radical)  
+![Saksham's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sakshamup&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sakshamup&layout=compact&theme=radical)  
 
 ---
 
